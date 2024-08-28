@@ -18,3 +18,8 @@ Greek/English focused embedding models based on state of the art techniques, com
 # Evaluations
 1) MTEB (for English)
 2) Pending (for Greek)
+
+# If there's time
+1) Meltemi Agent
+2) RAFT
+3) Evaluate RAG with new models vs existing embedding models
